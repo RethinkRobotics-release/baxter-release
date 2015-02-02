@@ -1,0 +1,12 @@
+Source: ros-hydro-baxter-sdk
+Section: misc
+Priority: extra
+Maintainer: Rethink Robotics Inc. <rsdk.support@rethinkrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: http://sdk.rethinkrobotics.com/
+Standards-Version: 3.9.2
+
+Package: ros-hydro-baxter-sdk
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-baxter-common, ros-hydro-baxter-examples, ros-hydro-baxter-interface, ros-hydro-baxter-tools
+Description: baxter_sdk metapackage containing all of the SDK packages for the Baxter Research Robot from Rethink Robotics.
