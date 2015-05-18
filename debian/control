@@ -1,0 +1,12 @@
+Source: ros-indigo-baxter-sdk
+Section: misc
+Priority: extra
+Maintainer: Rethink Robotics Inc. <rsdk.support@rethinkrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://sdk.rethinkrobotics.com/
+Standards-Version: 3.9.2
+
+Package: ros-indigo-baxter-sdk
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-baxter-common, ros-indigo-baxter-examples, ros-indigo-baxter-interface, ros-indigo-baxter-tools
+Description: baxter_sdk metapackage containing all of the SDK packages for the Baxter Research Robot from Rethink Robotics.
