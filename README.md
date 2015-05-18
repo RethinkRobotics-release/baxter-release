@@ -1,3 +1,24 @@
+## baxter (hydro) - 1.1.1-0
+
+The packages in the `baxter` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro baxter --edit` on `Mon, 18 May 2015 20:08:32 -0000`
+
+The `baxter_sdk` package was released.
+
+Version of package(s) in repository `baxter`:
+- upstream repository: https://github.com/RethinkRobotics/baxter.git
+- release repository: https://github.com/RethinkRobotics-release/baxter-release.git
+- rosdistro version: `1.1.0-0`
+- old version: `1.1.0-0`
+- new version: `1.1.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## baxter (indigo) - 1.1.1-0
 
 The packages in the `baxter` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo baxter --edit` on `Mon, 18 May 2015 15:53:08 -0000`
