@@ -1,3 +1,24 @@
+## baxter (indigo) - 1.2.0-0
+
+The packages in the `baxter` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo baxter --edit` on `Thu, 31 Dec 2015 18:25:47 -0000`
+
+The `baxter_sdk` package was released.
+
+Version of package(s) in repository `baxter`:
+- upstream repository: https://github.com/RethinkRobotics/baxter.git
+- release repository: https://github.com/RethinkRobotics-release/baxter-release.git
+- rosdistro version: `1.1.1-1`
+- old version: `1.1.1-1`
+- new version: `1.2.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.9`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## baxter (indigo) - 1.1.1-1
 
 The packages in the `baxter` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo baxter --edit` on `Mon, 18 May 2015 20:11:09 -0000`
